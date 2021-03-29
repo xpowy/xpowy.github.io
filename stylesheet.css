@@ -1,0 +1,14 @@
+a {
+  color:#555;
+  font-weight:700;
+  text-decoration:none;
+  display:block;
+  margin-bottom:20px;
+}
+
+a:active, a:hover {
+  color:#f55;
+}
+
+.mBlock {
+}
